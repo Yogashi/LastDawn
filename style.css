@@ -228,3 +228,15 @@ width: 50%;
   border-radius: 50px;
   cursor: pointer;
  }
+
+ .comment{
+  background-color: blueviolet;
+  color: black;
+  position: relative;
+  padding: 10px 20px;
+  border: none;
+  cursor: pointer;
+  font-size: 50px;
+  border-radius: 20px;
+  font-family: "Amiri" sans-serif;
+ }
