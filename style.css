@@ -19,17 +19,6 @@ body {
    font-size: 1cm;
 }
    
-#cata{
-   width: 65%;
-   border-radius: 80px;
-   border: 2px solid purple;
-   cursor: pointer;
-}
-
-.pic{
-  width: 65%;
-  border-radius: 80px;
-}
    
 .line{
   border: 0;
@@ -101,6 +90,11 @@ h5{
    font-family: "Amiri" sans-serif;
  }
 
+ .pic{
+  width: 65%;
+  border-radius: 80px;
+}
+
  .part{
    color: red;
    text-align: center;
@@ -117,12 +111,6 @@ h5{
    border-radius: 5px;
  }
 
- .watt{
-  width: 20%;
-   border-radius: 80px;
-   cursor: pointer;
- }
-
  .selector{
   width: 65%;
   background-color: blueviolet;
@@ -135,27 +123,20 @@ h5{
    font-family: "Amiri" sans-serif;
  }
 
- .info{
-  width: 65%;
+ .manha{
+  width: 40%;
   background-color: blueviolet;
    color: black;
-   position: relative;
+   margin-left: 60%;
    text-align: right;
    padding: 10px 20px;
    border: none;
    cursor: pointer;
-   font-size: 50px;
+   font-size: 30px;
    border-radius: 20px;
    font-family: "Amiri" sans-serif;
  }
 
- .info-img{
-  width: 70px;
-  position: fixed;
-  border-radius: 20px;
-  display: block;
-  margin-top: -0.6%;
- }
 
  .pre{
   float: left;
@@ -180,63 +161,6 @@ h5{
   cursor: pointer;
  }
 
-
- .grid{
-display: flex;
-gap: 5px;
-align-items: flex-start;
- }
-
- .list{
-border: 5px solid blueviolet;
-border-radius: 50px;
-width: 50%;
-
- }
-
- .ListContant{
-  color: white;
-   font-size: 1.3em;
-   text-align: right;
-   width: 100%;
-   white-space: pre-wrap;
-   word-wrap: break-word;
-   font-family: "Amiri" sans-serif;
-   direction: rtl;
- }
-
- .ListContantCen{
-  color: white;
-   font-size: 1.3em;
-   text-align: center;
-   width: 100%;
-   white-space: pre-wrap;
-   word-wrap: break-word;
-   font-family: "Amiri" sans-serif;
-   direction: rtl;
- }
-
- .widegrid{
-  display: flex;
-  gap: 20px;
- }
-
- .grid-img{
-  float: right;
-  width: 48%;
-  border: 2px solid purple;
-  border-radius: 50px;
-  cursor: pointer;
- }
-
- .comment{
-  background-color: blueviolet;
-  color: black;
-  position: relative;
-  padding: 10px 20px;
-  border: none;
-  cursor: pointer;
-  font-size: 50px;
-  border-radius: 20px;
-  font-family: "Amiri" sans-serif;
+ .panal{
+  width: 100%;
  }
