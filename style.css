@@ -37,24 +37,24 @@ h5{
  }
  
  .dropdown-btn {
-   background-color: #007bff;
+   background-color: purple;
    color: white;
    padding: 10px 20px;
-   border: none;
+   border: blue solid;
    cursor: pointer;
-   font-size: 16px;
-   border-radius: 5px;
+   font-size: 32px;
+   border-radius: 15px;
  }
  
  .dropdown-btn:hover {
-   background-color: #0056b3;
+   background-color: red;
  }
  
  .dropdown-content {
    display: none;
    position: absolute;
    background-color: white;
-   min-width: 200px;
+   min-width: 250px;
    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.2);
    z-index: 1;
    border-radius: 5px;
@@ -62,15 +62,15 @@ h5{
  }
  
  .dropdown-content a {
+  background-color: black;
    padding: 10px 15px;
    display: block;
    text-decoration: none;
-   color: #333;
+   color: white;
  }
  
  .dropdown-content a:hover {
-   background-color: #f1f1f1;
-   color: #007bff;
+   background-color: red;
  }
 
  .story {
