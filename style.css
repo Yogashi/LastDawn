@@ -145,7 +145,7 @@ h5{
    background-color: red;
  }
 
- .boton{
+ .something{
    width: 52%;
    background-color: purple;
    color: white;
@@ -159,7 +159,7 @@ h5{
    font-family: "Amiri" sans-serif;
  }
 
- .boton:hover{
+ .something:hover{
   background-color: red;
  }
 
