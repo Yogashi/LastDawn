@@ -145,7 +145,7 @@ h5{
    background-color: red;
  }
 
- .chapter{
+ .boton{
    width: 52%;
    background-color: purple;
    color: white;
@@ -159,6 +159,9 @@ h5{
    font-family: "Amiri" sans-serif;
  }
 
+ .boton:hover{
+  background-color: red;
+ }
 
  .pre{
   float: left;
