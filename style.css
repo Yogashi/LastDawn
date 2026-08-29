@@ -12,6 +12,14 @@ body {
     text-align: center;
 }
 
+.right{
+  text-align: right;
+}
+
+.left{
+  text-align: left;
+}
+
 .welcom{
    color: purple;
    text-align: center;
@@ -126,17 +134,20 @@ h5{
  .manha{
   width: 20%;
   background-color: blueviolet;
-   color: black;
+   color: white;
    margin-left: 80%;
    text-align: right;
    padding: 10px 20px;
-   border: none;
+   border: blue solid;
    cursor: pointer;
    font-size: 30px;
    border-radius: 20px;
    font-family: "Amiri" sans-serif;
  }
 
+ .manha:hover {
+   background-color: red;
+ }
 
  .pre{
   float: left;
