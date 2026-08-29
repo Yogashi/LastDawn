@@ -12,10 +12,6 @@ body {
     text-align: center;
 }
 
-.right{
-  text-align: right;
-}
-
 .left{
   text-align: left;
 }
@@ -133,7 +129,7 @@ h5{
 
  .manha{
   width: 20%;
-  background-color: blueviolet;
+  background-color: purple;
    color: white;
    margin-left: 80%;
    text-align: right;
@@ -148,6 +144,21 @@ h5{
  .manha:hover {
    background-color: red;
  }
+
+ .chap{
+   width: 400px;
+   background-color: purple;
+   color: white;
+   margin-left: 48%;
+   text-align: right;
+   padding: 10px 20px;
+   border: blue solid;
+   cursor: pointer;
+   font-size: 30px;
+   border-radius: 20px;
+   font-family: "Amiri" sans-serif;
+ }
+
 
  .pre{
   float: left;
