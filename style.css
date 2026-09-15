@@ -145,24 +145,6 @@ h5{
    background-color: red;
  }
 
- .g{
-   width: 52%;
-   background-color: purple;
-   color: white;
-   margin-left: 48%;
-   text-align: right;
-   padding: 10px 20px;
-   border: blue solid;
-   cursor: pointer;
-   font-size: 30px;
-   border-radius: 20px;
-   font-family: "Amiri" sans-serif;
- }
-
- .g:hover{
-  background-color: red;
- }
-
  .pre{
   float: left;
   width: 25%;
@@ -188,4 +170,22 @@ h5{
 
  .panal{
   width: 100%;
+ }
+
+ .chapsel{
+   width: 52%;
+   background-color: purple;
+   color: white;
+   margin-left: 48%;
+   text-align: right;
+   padding: 10px 20px;
+   border: blue solid;
+   cursor: pointer;
+   font-size: 30px;
+   border-radius: 20px;
+   font-family: "Amiri" sans-serif;
+ }
+
+ .chapsel:hover{
+  background-color: red;
  }
