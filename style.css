@@ -181,7 +181,7 @@ h5{
    padding: 10px 20px;
    border: blue solid;
    cursor: pointer;
-   font-size: 30px;
+   font-size: 130%;
    border-radius: 20px;
    font-family: "Amiri" sans-serif;
  }
