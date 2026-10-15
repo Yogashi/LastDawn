@@ -193,8 +193,8 @@ h5{
  .down{
   background-color: purple;
   color: white;
-  position:absolute;
-  margin-left: 30%;
+  position: absolute;
+  right: 53%;
   text-align: center;
   border: blue solid;
   padding: 10px 20px;
