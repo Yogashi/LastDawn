@@ -32,3 +32,12 @@ function redirectToPage(url) {
         }
     });
 })();
+
+function download(url) {
+  const link = document.createElement("a");
+    link.href = url;
+    link.download = ""; // Suggests downloading the file using its original name
+    document.body.appendChild(link);
+    link.click();
+    link.remove();
+}

@@ -189,3 +189,20 @@ h5{
  .chapsel:hover{
   background-color: red;
  }
+
+ .down{
+  background-color: purple;
+  color: white;
+  position:absolute;
+  margin-left: 30%;
+  text-align: center;
+  border: blue solid;
+  padding: 10px 20px;
+  font-size: 130%;
+  cursor: pointer;
+  border-radius: 20px;
+  font-family: "Amiri" sans-serif;
+ }
+ .down:hover{
+  background-color: red;
+ }
