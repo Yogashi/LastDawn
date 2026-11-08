@@ -206,3 +206,20 @@ h5{
  .down:hover{
   background-color: red;
  }
+
+ .read{
+  background-color: purple;
+  color: white;
+  position: relative;
+  left: 48%;
+  text-align: center;
+  border: blue solid;
+  padding: 10px 20px;
+  font-size: 130%;
+  cursor: pointer;
+  border-radius: 20px;
+  font-family: "Amiri" sans-serif;
+ }
+ .read:hover{
+  background-color: red;
+ }
